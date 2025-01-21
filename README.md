@@ -25,7 +25,9 @@ TUXNET is designed for anyone looking to take control of their network. Here’s
 - **Disconnect Misbehaving Devices**: Kick off any device that’s causing trouble on the network with a simple click.
 - **User -Friendly Interface**: Navigate effortlessly with an intuitive design that makes network management a breeze.
 - **Open Source**: Customize and contribute to the tool as part of the community.
-![Uploading Screenshot 2025-01-21 at 10.12.59 PM.png…]()
+  Find me another websites
+@TUXTECH On TikTok
+
 
 
 <footer>
