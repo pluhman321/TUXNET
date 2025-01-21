@@ -23,10 +23,18 @@ TUXNET is designed for anyone looking to take control of their network. Here’s
 - **Network Scanning**: Quickly scan your local network to discover all connected devices.
 - **Device Selection**: Easily view and select devices from the scan results.
 - **Disconnect Misbehaving Devices**: Kick off any device that’s causing trouble on the network with a simple click.
-- **Real-Time Monitoring**: Keep an eye on device status and network performance metrics.
 - **User -Friendly Interface**: Navigate effortlessly with an intuitive design that makes network management a breeze.
 - **Open Source**: Customize and contribute to the tool as part of the community.
-- ** don't do anything illegal**: if you do anything illegal with this tool it is not my responsibility or liability if you are caught doing criminal things with this tool you are solely responsible for the outcome this tool is designed for IT managers of networks to misbehaving devices off.
+- ▄▄▄█████▓ █    ██ ▒██   ██▒▄▄▄█████▓▓█████  ▄████▄   ██░ ██ 
+▓  ██▒ ▓▒ ██  ▓██▒▒▒ █ █ ▒░▓  ██▒ ▓▒▓█   ▀ ▒██▀ ▀█  ▓██░ ██▒
+▒ ▓██░ ▒░▓██  ▒██░░░  █   ░▒ ▓██░ ▒░▒███   ▒▓█    ▄ ▒██▀▀██░
+░ ▓██▓ ░ ▓▓█  ░██░ ░ █ █ ▒ ░ ▓██▓ ░ ▒▓█  ▄ ▒▓▓▄ ▄██▒░▓█ ░██ 
+  ▒██▒ ░ ▒▒█████▓ ▒██▒ ▒██▒  ▒██▒ ░ ░▒████▒▒ ▓███▀ ░░▓█▒░██▓
+  ▒ ░░   ░▒▓▒ ▒ ▒ ▒▒ ░ ░▓ ░  ▒ ░░   ░░ ▒░ ░░ ░▒ ▒  ░ ▒ ░░▒░▒
+    ░    ░░▒░ ░ ░ ░░   ░▒ ░    ░     ░ ░  ░  ░  ▒    ▒ ░▒░ ░
+  ░       ░░░ ░ ░  ░    ░    ░         ░   ░         ░  ░░ ░
+            ░      ░    ░              ░  ░░ ░       ░  ░  ░
+                                           ░                
 
 <footer>
 
