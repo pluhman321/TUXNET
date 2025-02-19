@@ -5,7 +5,7 @@
   Include a brief description of the TUXNET tool and its purpose.
 -->
 
-# TUXNET
+# TuxNet
 
 _Manage your network with ease: scan, monitor, and control devices effortlessly._
 
